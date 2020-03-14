@@ -18,6 +18,12 @@ _global_script_class_icons={
 config/name="Godot Wild Jam #19"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/width=960
+window/size/height=640
+
 [rendering]
 
+quality/driver/driver_name="GLES2"
 environment/default_environment="res://default_env.tres"
